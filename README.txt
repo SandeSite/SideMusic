@@ -1,4 +1,4 @@
-# VIBE Music Website Template
+# SideMusic
 
 A modern responsive music website built with:
 - HTML
