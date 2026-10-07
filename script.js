@@ -122,11 +122,11 @@ newsletterForm.addEventListener("submit", event => {
   const email = document.getElementById("email").value.trim();
 
   if (email) {
-    formMessage.textContent = "Thanks — you're on the VIBE list.";
+    formMessage.textContent = "Thanks — you're on the SideMusic list.";
     newsletterForm.reset();
   }
 });
 
 document.getElementById("eventButton").addEventListener("click", () => {
-  alert("Events section coming soon — this is a portfolio template.");
+  alert("Events section coming soon.");
 });
